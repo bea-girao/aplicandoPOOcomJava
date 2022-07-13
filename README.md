@@ -20,7 +20,7 @@ seja, os pontos são iguais e um método que calcula a distância sobre entre do
 pontos.
 Abaixo veja como ficaria a classe Ponto sem os construtores e métodos:
 
-//ver a classe Ponto no repositório
+//ver a classe Ponto no repositório completado com os construtores e métodos.
 
 Considerando seu conhecimento, as explicações acima e a classe Ponto 
 apresentada, escreva as implementações dos construtores e métodos da classe 
